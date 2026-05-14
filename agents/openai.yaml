@@ -1,0 +1,4 @@
+interface:
+  display_name: "租房.skill"
+  short_description: "小红书主动检索、房源筛选、看房合同核验的中国大陆租房决策助手"
+  default_prompt: "Use $renting-cn 帮我结合小红书检索、房源信息、看房和合同核验评估租房选择。"
