@@ -3,7 +3,6 @@
 [![Codex Skill](https://img.shields.io/badge/Codex%20Skill-renting--cn-111827)](#)
 [![Language](https://img.shields.io/badge/Language-%E4%B8%AD%E6%96%87-blue)](#)
 [![Scope](https://img.shields.io/badge/Scope-Rental%20Decision-green)](#)
-[![Redbook](https://img.shields.io/badge/Redbook-Research%20Ready-ff2442)](#)
 [![MCP](https://img.shields.io/badge/MCP-Redbook--Search--Comment--MCP2.0-purple)](https://github.com/chenningling/Redbook-Search-Comment-MCP2.0)
 
 `租房.skill` 是一个面向租房决策的 Codex Skill。它把小红书真实体验、房源平台信息、地图通勤、现场看房、签约权属和押金条款放到同一个判断框架里，帮你少踩坑、少被催、少为含糊条款买单。
